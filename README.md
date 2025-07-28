@@ -14,3 +14,8 @@ output
 
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d0f7e48e-122a-4220-a4ec-b8b39f0b8c14" />
+
+
+report:
+
+[LeftOverLove_Extended_Report_Nithish (1).pdf](https://github.com/user-attachments/files/21469078/LeftOverLove_Extended_Report_Nithish.1.pdf)
